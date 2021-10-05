@@ -1,56 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2021-10-05T00:13:39.772Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.73" etag="AFwbPhBQlue4nxiHzCEI" version="15.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-05T00:27:20.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36 OPR/79.0.4143.73" etag="hX6wk9Hvl56_JqrmWzYD" version="15.4.1" type="github" pages="2">
   <diagram id="ZTGhq-0FEr-EGdgvKFgw" name="Diagrama de Contenedores">
-    <mxGraphModel dx="1067" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1894" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ilcgs_HOE28s-C0p-yuQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="wh132oZABtKo44570uBa-3" target="wh132oZABtKo44570uBa-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wh132oZABtKo44570uBa-3" value="" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" parent="1" vertex="1">
           <mxGeometry x="320" y="120" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="wh132oZABtKo44570uBa-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wh132oZABtKo44570uBa-5" target="wh132oZABtKo44570uBa-3" edge="1">
+        <mxCell id="Ilcgs_HOE28s-C0p-yuQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.638;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wh132oZABtKo44570uBa-5" target="wh132oZABtKo44570uBa-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Ilcgs_HOE28s-C0p-yuQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.363;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wh132oZABtKo44570uBa-5" target="wh132oZABtKo44570uBa-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="168" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wh132oZABtKo44570uBa-5" value="" style="html=1;dashed=0;whitespace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="80" y="150" width="130" height="70" as="geometry" />
+          <mxGeometry x="-30" y="150" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ilcgs_HOE28s-C0p-yuQ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.982;entryY=0.363;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wh132oZABtKo44570uBa-6" target="wh132oZABtKo44570uBa-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ilcgs_HOE28s-C0p-yuQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1.018;entryY=0.631;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wh132oZABtKo44570uBa-6" target="wh132oZABtKo44570uBa-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wh132oZABtKo44570uBa-6" value="" style="html=1;dashed=0;whitespace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="600" y="150" width="130" height="70" as="geometry" />
+          <mxGeometry x="660" y="150" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wh132oZABtKo44570uBa-7" value="CONDUCTOR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="175" width="40" height="20" as="geometry" />
+          <mxGeometry x="15" y="170" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wh132oZABtKo44570uBa-8" value="AGENTE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="645" y="175" width="40" height="20" as="geometry" />
+          <mxGeometry x="705" y="175" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wh132oZABtKo44570uBa-9" value="0&amp;nbsp;&lt;br&gt;SISTEMA DE&amp;nbsp; PRESTAMOS DE LIBROS BIBLIOTECA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="wh132oZABtKo44570uBa-9" value="0&amp;nbsp;&lt;br&gt;SISTEMA DE MANEJO DE MULTAS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="365" y="170" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wh132oZABtKo44570uBa-10" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="169" as="sourcePoint" />
-            <mxPoint x="600" y="169" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="wh132oZABtKo44570uBa-12" value="F. Expedición licencia,&amp;nbsp;&lt;br&gt;F. Expiración licencia,&amp;nbsp;&lt;br&gt;Placa, Marca, Año..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="140" y="130" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wh132oZABtKo44570uBa-11" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.714;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="wh132oZABtKo44570uBa-6" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="200" as="sourcePoint" />
-            <mxPoint x="560" y="200" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="Ilcgs_HOE28s-C0p-yuQ-6" value="Estado Previsible" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="210" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wh132oZABtKo44570uBa-12" value="Carnet +&lt;br&gt;Ficha de libros" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="155" width="100" height="20" as="geometry" />
+        <mxCell id="Ilcgs_HOE28s-C0p-yuQ-8" value="Notificar multa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="165" y="280" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wh132oZABtKo44570uBa-13" value="Entrega de libro" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="470" y="150" width="100" height="20" as="geometry" />
+        <mxCell id="Ilcgs_HOE28s-C0p-yuQ-11" value="id Multa, Fecha, Descripción, Documento Conductor, Documento Agente, Valor Multa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="120" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wh132oZABtKo44570uBa-14" value="Msj. &quot;Libro no disponible&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="450" y="210" width="140" height="20" as="geometry" />
+        <mxCell id="Ilcgs_HOE28s-C0p-yuQ-14" value="Número identificación, nombre, apellido..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="220" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="di-uKeUT8kQ9gQvsRKG9" name="Page-2">
-    <mxGraphModel dx="3876" dy="2460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2961" dy="2073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Lbyd7cLaKJBiENPqgzpD-0" />
         <mxCell id="Lbyd7cLaKJBiENPqgzpD-1" parent="Lbyd7cLaKJBiENPqgzpD-0" />
